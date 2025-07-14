@@ -1,4 +1,4 @@
-module github.com/xbh-xr/utls
+module github.com/xbh-xr/utls_opt
 
 go 1.24
 
