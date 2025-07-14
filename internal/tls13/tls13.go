@@ -9,8 +9,8 @@ package tls13
 import (
 	fips140 "hash"
 
-	"github.com/refraction-networking/utls/internal/byteorder"
-	"github.com/refraction-networking/utls/internal/hkdf"
+	"github.com/xbh-xr/utls_opt/internal/byteorder"
+	"github.com/xbh-xr/utls_opt/internal/hkdf"
 )
 
 // We don't set the service indicator in this package but we delegate that to

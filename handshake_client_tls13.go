@@ -19,8 +19,8 @@ import (
 	"slices"
 	"time"
 
-	"github.com/refraction-networking/utls/internal/hkdf"
-	"github.com/refraction-networking/utls/internal/tls13"
+	"github.com/xbh-xr/utls_opt/internal/hkdf"
+	"github.com/xbh-xr/utls_opt/internal/tls13"
 )
 
 type clientHandshakeStateTLS13 struct {

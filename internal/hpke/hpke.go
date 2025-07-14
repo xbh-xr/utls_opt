@@ -13,8 +13,8 @@ import (
 	"errors"
 	"math/bits"
 
-	"github.com/refraction-networking/utls/internal/byteorder"
-	"github.com/refraction-networking/utls/internal/hkdf"
+	"github.com/xbh-xr/utls_opt/internal/byteorder"
+	"github.com/xbh-xr/utls_opt/internal/hkdf"
 	"golang.org/x/crypto/chacha20poly1305"
 )
 
